@@ -21,10 +21,33 @@ body{
 /* Layout*/
 .Container {
     margin: 0 auto;
-    background-color: #7f0;
+    background-color: #dcdcdc;
+}
+
+.Flex{
+    display: flex;
+    justify-content: space-between;
+    background-color: #a9a9a9;
+}
+
+/* Topo do site*/
+#topo{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
 }
 
 /* Smartphone portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  */
+
+/* Cabeçalho*/
+header{
+    height: 60px;
+}
+
+#logo img{
+    width: 128px;
+    height: 128px;
+}
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 576px){
@@ -65,5 +88,15 @@ body{
     /* Layout*/
     .Container{
         max-width: 1140px;
+    }
+
+    /* Cabeçalho */
+    header{
+        height: 120px;
+    }
+    #logo img{
+        width: 189px;
+        height: 189px;
+        margin: 30px;
     }
 }
