@@ -19,6 +19,6 @@ Aprenda HTML5, CSS# e SEO de forma simples...
 [optmizilla](https://imagemcompressor.com/pt/)
 
 ### Validação W3C
-[HTML](https://validator.w3.org/#validate_by_upload)
+[HTML](https://validator.w3.org/)
 
-[CSS](https://validator.w3.org/#validate_by_upload)
+[CSS](http://jigsaw.w3.org/css-validator/)
