@@ -17,3 +17,8 @@ Aprenda HTML5, CSS# e SEO de forma simples...
 [iconfinder](https://www.iconfinder.com/)
 
 [optmizilla](https://imagemcompressor.com/pt/)
+
+### Validação W3C
+[HTML](https://validator.w3.org/#validate_by_upload)
+
+[CSS](https://validator.w3.org/#validate_by_upload)
